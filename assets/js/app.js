@@ -40,4 +40,4 @@ console.log(`6. Hypotenuse equals: ${hypotenuse} cm`);
 // 7) Рассчитать значение y, при любых введённых значениях а:
 let a = +prompt('7. Set the "a" value:');
 let y = (a ** 2 + 10) / (Math.sqrt(a ** 2 + 1));
-console.log(`If "a" equals ${a}, "y" equals ${y}`);
+console.log(`7. If "a" equals ${a}, "y" equals: ${y}`);
